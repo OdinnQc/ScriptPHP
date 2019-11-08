@@ -1,1 +1,1 @@
-# ScriptPHP Pub rotative avec BBD
+# ScriptPHP - Pub rotative avec BBD
